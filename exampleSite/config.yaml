@@ -37,8 +37,8 @@ markup:
 social:
   # e.g.
   github: your-github-link
-  twitter: your-github-link
-  stackoverflow: your-github-link
+  twitter: your-twitter-link
+  stackoverflow: your-stackoverflow-link
   # facebook: your-facebook-link
 
 
@@ -70,7 +70,7 @@ params:
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
-  # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
+  # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
   copyright: '' 
 
   # Extra links in navigation
